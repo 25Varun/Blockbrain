@@ -1,0 +1,4 @@
+.exit
+const tokenCount = await contract.tokenCount()
+.exit
+.help
